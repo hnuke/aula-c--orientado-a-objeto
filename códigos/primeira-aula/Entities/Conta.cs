@@ -27,6 +27,15 @@ namespace primeira_aula.Entities
             saldo += quantidade;
         }
 
+        public void EnviarDinheiro(Conta contaRecebedora, double valorTransferido){
+            if (VerificarSaldo(valorTransferido)){
+                saldo -= valorTransferido;
+                contaRecebedora.saldo += valorTransferido;
+                System.Console.WriteLine("Valor transferido com sucesso!");
+            }
+            System.Console.WriteLine("Saldo insuficiente para transferência.");
+        }
+
         private bool VerificarSaldo(double quantidade){
             if ((saldo - quantidade) <= 0){
                 System.Console.WriteLine("SEM SALDO SUFICIENTE!");

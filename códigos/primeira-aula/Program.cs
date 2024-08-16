@@ -27,6 +27,8 @@ namespace primeira_aula
             System.Console.WriteLine(func1);
             System.Console.WriteLine();
             // fim do código do segundo exercício
+            
+            // código do tercerio exercício
             System.Console.Write("Digite o nome do produto: ");
             string nomeProduto = Console.ReadLine();
             System.Console.Write("Digite o preço do produto: ");
@@ -36,7 +38,7 @@ namespace primeira_aula
             Produto produto1 = new Produto(nomeProduto, precoProduto, codigoProduto);
             System.Console.WriteLine(produto1);
 
-                        System.Console.Write("Digite o nome do produto: ");
+            System.Console.Write("Digite o nome do produto: ");
             nomeProduto = Console.ReadLine();
             System.Console.Write("Digite o preço do produto: ");
             precoProduto = double.Parse(Console.ReadLine());
@@ -44,8 +46,12 @@ namespace primeira_aula
             codigoProduto = int.Parse(Console.ReadLine());
             Produto produto2 = new Produto(nomeProduto, precoProduto, codigoProduto);
             System.Console.WriteLine(produto2);
-            // código do terceiro exercício
 
+            double somaProdutos = produto1.preco + produto2.preco;
+
+            System.Console.WriteLine("A soma dos produtos é de: R$ " + somaProdutos.ToString("F2"));
+
+            // fim do terceiro codigo
         
         }
     }

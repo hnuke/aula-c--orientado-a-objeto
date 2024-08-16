@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\bin\Debug\net8.0\exercicio-estoque.exe
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\bin\Debug\net8.0\exercicio-estoque.deps.json
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\bin\Debug\net8.0\exercicio-estoque.runtimeconfig.json
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\bin\Debug\net8.0\exercicio-estoque.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\bin\Debug\net8.0\exercicio-estoque.pdb
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.AssemblyInfo.cs
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.sourcelink.json
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\refint\exercicio-estoque.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.pdb
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\exercicio-estoque.genruntimeconfig.cache
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\exercicio-estoque\obj\Debug\net8.0\ref\exercicio-estoque.dll

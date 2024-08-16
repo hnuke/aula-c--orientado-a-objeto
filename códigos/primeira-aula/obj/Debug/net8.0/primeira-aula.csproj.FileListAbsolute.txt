@@ -13,3 +13,18 @@ C:\Users\aluno\Desktop\c# orientado a objeto\aula-c--orientado-a-objeto\códigos
 C:\Users\aluno\Desktop\c# orientado a objeto\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.pdb
 C:\Users\aluno\Desktop\c# orientado a objeto\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.genruntimeconfig.cache
 C:\Users\aluno\Desktop\c# orientado a objeto\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\ref\primeira-aula.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\bin\Debug\net8.0\primeira-aula.exe
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\bin\Debug\net8.0\primeira-aula.deps.json
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\bin\Debug\net8.0\primeira-aula.runtimeconfig.json
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\bin\Debug\net8.0\primeira-aula.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\bin\Debug\net8.0\primeira-aula.pdb
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.AssemblyInfo.cs
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.sourcelink.json
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\refint\primeira-aula.dll
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.pdb
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\primeira-aula.genruntimeconfig.cache
+C:\Users\aluno\Desktop\dir\aula-c--orientado-a-objeto\códigos\primeira-aula\obj\Debug\net8.0\ref\primeira-aula.dll
