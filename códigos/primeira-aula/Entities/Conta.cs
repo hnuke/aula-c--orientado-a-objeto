@@ -29,8 +29,11 @@ namespace primeira_aula.Entities
 
         private bool VerificarSaldo(double quantidade){
             if ((saldo - quantidade) <= 0){
+                System.Console.WriteLine("SEM SALDO SUFICIENTE!");
+                System.Console.WriteLine();
                 return false;
             }
+            System.Console.WriteLine("Saldo disponível");
             return true;
         }
 
