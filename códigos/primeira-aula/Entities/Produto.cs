@@ -18,6 +18,7 @@ namespace primeira_aula.Entities
             this.codigo = codigo;
         }
 
+
         public override string ToString(){
             return "Nome: " + nome + " , Preço: R$ " + preco + " , Código: " + codigo;
         }

@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.sourcelink.json
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\bin\Debug\net8.0\array-1.exe
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\bin\Debug\net8.0\array-1.deps.json
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\bin\Debug\net8.0\array-1.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\bin\Debug\net8.0\array-1.dll
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\bin\Debug\net8.0\array-1.pdb
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.dll
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\refint\array-1.dll
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.pdb
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\array-1.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-1\obj\Debug\net8.0\ref\array-1.dll

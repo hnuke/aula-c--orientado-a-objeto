@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.sourcelink.json
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\bin\Debug\net8.0\array-produto.exe
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\bin\Debug\net8.0\array-produto.deps.json
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\bin\Debug\net8.0\array-produto.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\bin\Debug\net8.0\array-produto.dll
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\bin\Debug\net8.0\array-produto.pdb
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.dll
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\refint\array-produto.dll
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.pdb
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\array-produto.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\aula-c--orientado-a-objeto\códigos\segunda-aula\array-produto\obj\Debug\net8.0\ref\array-produto.dll

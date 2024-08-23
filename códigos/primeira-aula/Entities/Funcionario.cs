@@ -17,6 +17,12 @@ namespace primeira_aula.Entities
             this.codigo = codigo;
         }
 
+        public void AumentoSalarial(double porcentagem){
+            salario += salario * (porcentagem / 100);
+
+
+        }
+
 
         // método para os dados
         public override string ToString(){
