@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicio-estoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bae4a69268985b5298f87ae7fcff06925c0ea7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b945a0c18423fc52ffb95e2cad0967dabd09e45d")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicio-estoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicio-estoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
