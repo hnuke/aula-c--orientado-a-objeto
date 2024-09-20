@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\bin\Debug\net8.0\ArrayAgregacaoConta.exe
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\bin\Debug\net8.0\ArrayAgregacaoConta.deps.json
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\bin\Debug\net8.0\ArrayAgregacaoConta.runtimeconfig.json
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\bin\Debug\net8.0\ArrayAgregacaoConta.dll
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\bin\Debug\net8.0\ArrayAgregacaoConta.pdb
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.sourcelink.json
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.dll
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\refint\ArrayAgregacaoConta.dll
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.pdb
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ArrayAgregacaoConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\ArrayAgregacaoConta\obj\Debug\net8.0\ref\ArrayAgregacaoConta.dll
