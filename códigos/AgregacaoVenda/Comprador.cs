@@ -9,8 +9,12 @@ namespace AgregacaoVenda
     {
         public double Verba{get;set;}
 
+        public Comprador(double verba){
+            Verba = verba;
+        }
+
         public void MostrarAtributo(){
-            Console.WriteLine("Verba: " + Verba);
+            Console.WriteLine("Verba: R$" + Verba);
         }
     }
 }

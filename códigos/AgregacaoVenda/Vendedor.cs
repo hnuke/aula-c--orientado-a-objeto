@@ -7,11 +7,11 @@ namespace AgregacaoVenda
 {
     public class Vendedor
     {
-         public double Comissao {get;set;}
+        public double Comissao {get;set;}
 
 
         public void MostrarAtributo(){
-            Console.WriteLine("Comissão: " + Comissao);
+            Console.WriteLine("Comissão: R$" + Comissao);
         }
     }
 }

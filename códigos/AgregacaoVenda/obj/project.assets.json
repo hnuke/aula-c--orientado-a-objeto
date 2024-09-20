@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\hstuq\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoVenda\\AgregacaoVenda.csproj",
+      "projectUniqueName": "C:\\Users\\hstuq\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoVenda\\AgregacaoVenda.csproj",
       "projectName": "AgregacaoVenda",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoVenda\\AgregacaoVenda.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoVenda\\obj\\",
+      "projectPath": "C:\\Users\\hstuq\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoVenda\\AgregacaoVenda.csproj",
+      "packagesPath": "C:\\Users\\hstuq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hstuq\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoVenda\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hstuq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

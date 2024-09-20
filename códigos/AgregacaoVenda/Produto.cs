@@ -37,5 +37,9 @@ namespace AgregacaoVenda
             Preco = preco;
             codigoInicial++;
         }
+
+        public void MostrarAtributos(){
+            Console.WriteLine("Produto - Informações " + "\nNome: " + Nome + "\tPreço: R$" + Preco + "\tCodigo: " + Codigo);
+        }
     }
 }
