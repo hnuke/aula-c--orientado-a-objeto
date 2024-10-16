@@ -1,0 +1,15 @@
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\bin\Debug\net8.0\dio.estacionamento.desafio.exe
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\bin\Debug\net8.0\dio.estacionamento.desafio.deps.json
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\bin\Debug\net8.0\dio.estacionamento.desafio.runtimeconfig.json
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\bin\Debug\net8.0\dio.estacionamento.desafio.dll
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\bin\Debug\net8.0\dio.estacionamento.desafio.pdb
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.AssemblyInfoInputs.cache
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.AssemblyInfo.cs
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.csproj.CoreCompileInputs.cache
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.sourcelink.json
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.dll
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\refint\dio.estacionamento.desafio.dll
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.pdb
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\dio.estacionamento.desafio.genruntimeconfig.cache
+C:\Users\hstuq\Desktop\repolocal\aula-c--orientado-a-objeto\códigos\dio.estacionamento.desafio\obj\Debug\net8.0\ref\dio.estacionamento.desafio.dll
