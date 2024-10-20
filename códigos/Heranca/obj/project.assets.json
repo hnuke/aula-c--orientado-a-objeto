@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\hstuq\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\Heranca\\Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\Heranca\\Heranca.csproj",
       "projectName": "Heranca",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\Heranca\\Heranca.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\Heranca\\obj\\",
+      "projectPath": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\Heranca\\Heranca.csproj",
+      "packagesPath": "C:\\Users\\hstuq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hstuq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
