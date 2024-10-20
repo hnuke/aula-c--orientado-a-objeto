@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "lt//mECeS2c=",
   "success": true,
   "projectFilePath": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\ArrayAgregacaoConta\\ArrayAgregacaoConta.csproj",
+=======
+  "dgSpecHash": "FknBEpaQK/M=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\ArrayAgregacaoConta\\ArrayAgregacaoConta.csproj",
+>>>>>>> bcb1569a2dcc448ad50db2e39ee64bd8d52c40a1
   "expectedPackageFiles": [],
   "logs": []
 }

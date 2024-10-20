@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\bin\Debug\net8.0\AbstraFunc.exe
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\bin\Debug\net8.0\AbstraFunc.deps.json
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\bin\Debug\net8.0\AbstraFunc.runtimeconfig.json
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\bin\Debug\net8.0\AbstraFunc.dll
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\bin\Debug\net8.0\AbstraFunc.pdb
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.AssemblyInfo.cs
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.sourcelink.json
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.dll
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\refint\AbstraFunc.dll
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.pdb
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\AbstraFunc.genruntimeconfig.cache
+C:\Users\aluno\Desktop\repo-local\aula-c--orientado-a-objeto\códigos\AbstraFunc\obj\Debug\net8.0\ref\AbstraFunc.dll

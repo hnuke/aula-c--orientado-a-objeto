@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\hstuq\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+>>>>>>> bcb1569a2dcc448ad50db2e39ee64bd8d52c40a1
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\AgregacaoConta\\AgregacaoConta.csproj",
       "projectName": "AgregacaoConta",
       "projectPath": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\AgregacaoConta\\AgregacaoConta.csproj",
@@ -22,13 +27,21 @@
       "configFilePaths": [
         "C:\\Users\\hstuq\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "c:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoConta\\AgregacaoConta.csproj",
+      "projectName": "AgregacaoConta",
+      "projectPath": "c:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoConta\\AgregacaoConta.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\AgregacaoConta\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> bcb1569a2dcc448ad50db2e39ee64bd8d52c40a1
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +80,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+>>>>>>> bcb1569a2dcc448ad50db2e39ee64bd8d52c40a1
       }
     }
   }

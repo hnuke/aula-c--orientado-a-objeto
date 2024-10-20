@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "gO3uI6aFzUE=",
   "success": true,
   "projectFilePath": "C:\\Users\\hstuq\\Desktop\\repolocal\\aula-c--orientado-a-objeto\\códigos\\construtor\\construtor.csproj",
+=======
+  "dgSpecHash": "JNMkogUUSH8=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\aluno\\Desktop\\repo-local\\aula-c--orientado-a-objeto\\códigos\\construtor\\construtor.csproj",
+>>>>>>> bcb1569a2dcc448ad50db2e39ee64bd8d52c40a1
   "expectedPackageFiles": [],
   "logs": []
 }
