@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dio.hospedagemsistema.desafio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7709b6690971f834014daa629a50d6bf77f7132b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b244399b478ef2ae3135eca05507943eab322d99")]
 [assembly: System.Reflection.AssemblyProductAttribute("dio.hospedagemsistema.desafio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dio.hospedagemsistema.desafio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

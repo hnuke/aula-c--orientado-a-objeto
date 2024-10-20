@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Threading.Tasks;
 
 namespace dio.hospedagemsistema.desafio.Entities
@@ -10,8 +11,10 @@ namespace dio.hospedagemsistema.desafio.Entities
         public List<Pessoa> Hospedes {get;set;}
         public Suite Suite {get;set;}
         public int DiasReservados {get;set;}
+        public Dictionary<string,int> Teste {get;set;}
+        public List<string> lista {get;set;}
 
-
+        
         public void CadastrarHospedes(List<Pessoa> hospedes){
             if (Suite.Capacidade < Hospedes.Count()){
                 throw new Exception();
@@ -19,6 +22,11 @@ namespace dio.hospedagemsistema.desafio.Entities
             else {
                 Hospedes = hospedes;
             }
+
+            foreach (var t in Teste){
+                Teste["A"] += 1;
+            }
+
         }
 
         public void CadastrarSuite(Suite suite){
